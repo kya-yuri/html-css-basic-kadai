@@ -42,7 +42,7 @@ h2::before {
     content: "●";
     color: rgb(239, 111, 139);
 }
-img {
+.contents img {
     margin: 10px 0px;
     width: 70%;
 }
